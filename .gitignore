@@ -1,0 +1,10 @@
+# Java
+backend-core/build
+backend-core/.gradle
+*.iml
+# Node
+frontend/node_modules
+# Python
+ml-service/.venv
+# Misc
+.env
